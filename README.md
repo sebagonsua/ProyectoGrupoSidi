@@ -9,7 +9,7 @@ Sitio institucional de **Grupo SIDI** (Soluciones Industriales de Impacto), empr
 | Capa | Tecnología |
 |---|---|
 | Framework | Next.js |
-| Lenguaje | HTML + CSS + JavaScript + TypeScript + PHP |
+| Lenguaje | JavaScript + TypeScript + PHP |
 | Estilos | Tailwind CSS |
 | Deploy | Export estático — cualquier hosting de archivos |
 
